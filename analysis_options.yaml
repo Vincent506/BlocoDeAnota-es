@@ -11,10 +11,8 @@
 # (the recommended set includes the core lints).
 # The core lints are also what is used by pub.dev for scoring packages.
 
-# The project does not currently include an external analysis configuration package.
-# To enable a recommended lint set, add `lints` or `flutter_lints` to `pubspec.yaml`
-# and then restore the following line:
-# include: package:lints/recommended.yaml
+# The project does not currently include an external analysis configuration package,
+# so no package-based lint configuration is included here.
 
 # Uncomment the following section to specify additional rules.
 
